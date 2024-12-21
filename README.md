@@ -12,7 +12,7 @@
 
 ## 安装
 
-1.  访问 [GitHub Releases 页面](<https://github.com/nuomi77/windows_path_manager.git>) 下载最新版本的 zip 压缩包。
+1.  访问 [GitHub Releases 页面](<https://github.com/nuomi77/windows-path-manager.git>) 下载最新版本的 zip 压缩包。
 2.  将压缩包解压到任意目录。
 3.  运行 `Windows Path Manager` 即可启动程序。
 
